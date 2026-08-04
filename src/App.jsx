@@ -1,6 +1,7 @@
 import './App.css'
 
 const MAIN_SITE_URL = '#' // ponytail: placeholder, reemplazar con la URL real cuando exista
+const TUTORIAL_URL = '#' // ponytail: placeholder, reemplazar con el video de YouTube cuando exista
 const DEMO_EMAIL = 'invitado.demo@printescam.com'
 const DEMO_PASSWORD = 'invitadosunid'
 
@@ -13,6 +14,15 @@ function App() {
 
         <a className="main-button" href={MAIN_SITE_URL}>
           Entrar a la página principal
+        </a>
+
+        <a
+          className="tutorial-button"
+          href={TUTORIAL_URL}
+          target="_blank"
+          rel="noreferrer"
+        >
+          Ver tutorial en YouTube
         </a>
 
         <div className="demo-box">
