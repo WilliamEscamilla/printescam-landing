@@ -1,7 +1,7 @@
 import './App.css'
 
-const MAIN_SITE_URL = '#' // ponytail: placeholder, reemplazar con la URL real cuando exista
-const TUTORIAL_URL = '#' // ponytail: placeholder, reemplazar con el video de YouTube cuando exista
+const MAIN_SITE_URL = 'https://printescam-li9pk9y3y-williamescamillas-projects.vercel.app/productos'
+const TUTORIAL_URL = '#'
 const DEMO_EMAIL = 'invitado.demo@printescam.com'
 const DEMO_PASSWORD = 'invitadosunid'
 
