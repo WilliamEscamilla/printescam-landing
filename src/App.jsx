@@ -15,16 +15,6 @@ function App() {
         <a className="main-button" href={MAIN_SITE_URL}>
           Entrar a la página principal
         </a>
-
-        <a
-          className="tutorial-button"
-          href={TUTORIAL_URL}
-          target="_blank"
-          rel="noreferrer"
-        >
-          Ver tutorial en YouTube
-        </a>
-
         <div className="demo-box">
           <p className="demo-label">Acceso de prueba para maestros</p>
           <p>
