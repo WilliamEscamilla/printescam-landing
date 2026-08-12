@@ -1,6 +1,6 @@
 import './App.css'
 
-const MAIN_SITE_URL = 'https://printescam-li9pk9y3y-williamescamillas-projects.vercel.app'
+const MAIN_SITE_URL = 'https://printescam-git-main-williamescamillas-projects.vercel.app/'
 const TUTORIAL_URL = '#'
 const DEMO_EMAIL = 'invitado.demo@printescam.com'
 const DEMO_PASSWORD = 'invitadosunid'
